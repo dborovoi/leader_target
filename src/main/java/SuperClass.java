@@ -1,6 +1,6 @@
 /**
  * Created by User on 02.12.2016.
- * comment1123456567454545ssssssrrrrrqqqqqffffffffffffffffss
+ * comment1123456567454545ssssssrrrrrqqqqqffffffffffffffffssssss
  */
 public class SuperClass {
 
